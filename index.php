@@ -25,7 +25,6 @@
 
     <?php
       echo $_GET['url'];
-      echo "aloha";
     ?>
 
     <div id="footer">
